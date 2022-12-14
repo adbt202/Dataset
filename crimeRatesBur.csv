@@ -1,0 +1,577 @@
+Code,Borough,years,Offences,Rate,recordedOffences
+E09000002,Barking and Dagenham,1999,All recorded offences,120.5,19567
+E09000003,Barnet,1999,All recorded offences,98,30708
+E09000004,Bexley,1999,All recorded offences,95.1,20680
+E09000005,Brent,1999,All recorded offences,127.7,33253
+E09000006,Bromley,1999,All recorded offences,89.8,26474
+E09000007,Camden,1999,All recorded offences,241,45800
+E09000008,Croydon,1999,All recorded offences,113.7,37743
+E09000009,Ealing,1999,All recorded offences,128.2,38737
+E09000010,Enfield,1999,All recorded offences,104.8,28588
+E09000011,Greenwich,1999,All recorded offences,141.4,29991
+E09000012,Hackney,1999,All recorded offences,195.9,39007
+E09000013,Hammersmith and Fulham,1999,All recorded offences,178,28600
+E09000014,Haringey,1999,All recorded offences,155.9,34075
+E09000015,Harrow,1999,All recorded offences,80.7,16777
+E09000016,Havering,1999,All recorded offences,83.2,18787
+E09000017,Hillingdon,1999,All recorded offences,107.2,26281
+E09000018,Hounslow,1999,All recorded offences,144.8,31032
+E09000019,Islington,1999,All recorded offences,218.7,38427
+E09000020,Kensington and Chelsea,1999,All recorded offences,208.4,30779
+E09000021,Kingston upon Thames,1999,All recorded offences,100.3,14649
+E09000022,Lambeth,1999,All recorded offences,195.7,52212
+E09000023,Lewisham,1999,All recorded offences,118.4,29628
+E09000024,Merton,1999,All recorded offences,90.8,16812
+E09000025,Newham,1999,All recorded offences,159.4,38335
+E09000026,Redbridge,1999,All recorded offences,103.2,24578
+E09000027,Richmond upon Thames,1999,All recorded offences,89.7,15504
+E09000028,Southwark,1999,All recorded offences,176.5,43734
+E09000029,Sutton,1999,All recorded offences,80.8,14493
+E09000030,Tower Hamlets,1999,All recorded offences,176.1,34071
+E09000031,Waltham Forest,1999,All recorded offences,122.3,27035
+E09000032,Wandsworth,1999,All recorded offences,134.5,35527
+E09000033,Westminster,1999,All recorded offences,463,87615
+E09000002,Barking and Dagenham,2000,All recorded offences,123.6,20253
+E09000003,Barnet,2000,All recorded offences,95.7,30213
+E09000004,Bexley,2000,All recorded offences,96.3,21072
+E09000005,Brent,2000,All recorded offences,122.7,32513
+E09000006,Bromley,2000,All recorded offences,88.5,26142
+E09000007,Camden,2000,All recorded offences,238.5,46778
+E09000008,Croydon,2000,All recorded offences,105.4,35221
+E09000009,Ealing,2000,All recorded offences,126.7,38572
+E09000010,Enfield,2000,All recorded offences,101.9,28019
+E09000011,Greenwich,2000,All recorded offences,131.3,28165
+E09000012,Hackney,2000,All recorded offences,188,38242
+E09000013,Hammersmith and Fulham,2000,All recorded offences,171.8,28236
+E09000014,Haringey,2000,All recorded offences,149.2,32799
+E09000015,Harrow,2000,All recorded offences,81.4,17031
+E09000016,Havering,2000,All recorded offences,87.8,19761
+E09000017,Hillingdon,2000,All recorded offences,108.7,26739
+E09000018,Hounslow,2000,All recorded offences,135.2,29034
+E09000019,Islington,2000,All recorded offences,202.2,35968
+E09000020,Kensington and Chelsea,2000,All recorded offences,198.6,30714
+E09000021,Kingston upon Thames,2000,All recorded offences,96.8,14265
+E09000022,Lambeth,2000,All recorded offences,188.7,50950
+E09000023,Lewisham,2000,All recorded offences,110.3,27814
+E09000024,Merton,2000,All recorded offences,88,16569
+E09000025,Newham,2000,All recorded offences,158,38776
+E09000026,Redbridge,2000,All recorded offences,105.2,25226
+E09000027,Richmond upon Thames,2000,All recorded offences,84.9,14683
+E09000028,Southwark,2000,All recorded offences,160,40447
+E09000029,Sutton,2000,All recorded offences,77.2,13938
+E09000030,Tower Hamlets,2000,All recorded offences,177.9,35070
+E09000031,Waltham Forest,2000,All recorded offences,116.5,25771
+E09000032,Wandsworth,2000,All recorded offences,129.8,34756
+E09000033,Westminster,2000,All recorded offences,424.4,83379
+E09000002,Barking and Dagenham,2001,All recorded offences,124,20538
+E09000003,Barnet,2001,All recorded offences,101,32274
+E09000004,Bexley,2001,All recorded offences,96.9,21200
+E09000005,Brent,2001,All recorded offences,123.4,33276
+E09000006,Bromley,2001,All recorded offences,96.7,28638
+E09000007,Camden,2001,All recorded offences,262.2,53103
+E09000008,Croydon,2001,All recorded offences,111.8,37450
+E09000009,Ealing,2001,All recorded offences,127.3,39128
+E09000010,Enfield,2001,All recorded offences,106,29401
+E09000011,Greenwich,2001,All recorded offences,133.3,28995
+E09000012,Hackney,2001,All recorded offences,191.9,39769
+E09000013,Hammersmith and Fulham,2001,All recorded offences,174.1,29487
+E09000014,Haringey,2001,All recorded offences,170.2,37661
+E09000015,Harrow,2001,All recorded offences,86.7,18217
+E09000016,Havering,2001,All recorded offences,97.3,21868
+E09000017,Hillingdon,2001,All recorded offences,118.4,29074
+E09000018,Hounslow,2001,All recorded offences,138.6,29929
+E09000019,Islington,2001,All recorded offences,209.7,37611
+E09000020,Kensington and Chelsea,2001,All recorded offences,182.5,29605
+E09000021,Kingston upon Thames,2001,All recorded offences,92.7,13811
+E09000022,Lambeth,2001,All recorded offences,208.8,57092
+E09000023,Lewisham,2001,All recorded offences,114.1,29008
+E09000024,Merton,2001,All recorded offences,92.9,17747
+E09000025,Newham,2001,All recorded offences,162.8,40616
+E09000026,Redbridge,2001,All recorded offences,115.8,28001
+E09000027,Richmond upon Thames,2001,All recorded offences,92.1,16057
+E09000028,Southwark,2001,All recorded offences,178,45707
+E09000029,Sutton,2001,All recorded offences,84.6,15359
+E09000030,Tower Hamlets,2001,All recorded offences,185.4,37273
+E09000031,Waltham Forest,2001,All recorded offences,136.3,30260
+E09000032,Wandsworth,2001,All recorded offences,131.4,35717
+E09000033,Westminster,2001,All recorded offences,424.3,86270
+E09000002,Barking and Dagenham,2002,All recorded offences,122.6,20394
+E09000003,Barnet,2002,All recorded offences,107.1,34338
+E09000004,Bexley,2002,All recorded offences,90.1,19752
+E09000005,Brent,2002,All recorded offences,124.3,33537
+E09000006,Bromley,2002,All recorded offences,102.1,30276
+E09000007,Camden,2002,All recorded offences,264.2,53890
+E09000008,Croydon,2002,All recorded offences,115.1,38618
+E09000009,Ealing,2002,All recorded offences,129.8,40147
+E09000010,Enfield,2002,All recorded offences,107,30042
+E09000011,Greenwich,2002,All recorded offences,140.9,31202
+E09000012,Hackney,2002,All recorded offences,186.1,39267
+E09000013,Hammersmith and Fulham,2002,All recorded offences,174.4,30003
+E09000014,Haringey,2002,All recorded offences,173.8,39017
+E09000015,Harrow,2002,All recorded offences,92.2,19573
+E09000016,Havering,2002,All recorded offences,95.7,21537
+E09000017,Hillingdon,2002,All recorded offences,118.2,29214
+E09000018,Hounslow,2002,All recorded offences,151.4,32842
+E09000019,Islington,2002,All recorded offences,218.9,39425
+E09000020,Kensington and Chelsea,2002,All recorded offences,194.8,31921
+E09000021,Kingston upon Thames,2002,All recorded offences,95.8,14330
+E09000022,Lambeth,2002,All recorded offences,198.5,54188
+E09000023,Lewisham,2002,All recorded offences,113.4,28763
+E09000024,Merton,2002,All recorded offences,93.8,17880
+E09000025,Newham,2002,All recorded offences,161.2,41157
+E09000026,Redbridge,2002,All recorded offences,117.6,28737
+E09000027,Richmond upon Thames,2002,All recorded offences,95.8,16814
+E09000028,Southwark,2002,All recorded offences,179.3,45960
+E09000029,Sutton,2002,All recorded offences,82.7,14987
+E09000030,Tower Hamlets,2002,All recorded offences,198.6,41124
+E09000031,Waltham Forest,2002,All recorded offences,144.2,32264
+E09000032,Wandsworth,2002,All recorded offences,131.7,36204
+E09000033,Westminster,2002,All recorded offences,414,86151
+E09000002,Barking and Dagenham,2003,All recorded offences,133.2,22144
+E09000003,Barnet,2003,All recorded offences,112.8,36288
+E09000004,Bexley,2003,All recorded offences,92.5,20344
+E09000005,Brent,2003,All recorded offences,133.6,35837
+E09000006,Bromley,2003,All recorded offences,104,30918
+E09000007,Camden,2003,All recorded offences,249.8,51016
+E09000008,Croydon,2003,All recorded offences,110.3,37043
+E09000009,Ealing,2003,All recorded offences,123.1,37927
+E09000010,Enfield,2003,All recorded offences,106.4,29998
+E09000011,Greenwich,2003,All recorded offences,139.8,31347
+E09000012,Hackney,2003,All recorded offences,183.8,39035
+E09000013,Hammersmith and Fulham,2003,All recorded offences,167,28650
+E09000014,Haringey,2003,All recorded offences,163.6,36807
+E09000015,Harrow,2003,All recorded offences,86.2,18430
+E09000016,Havering,2003,All recorded offences,98.4,22165
+E09000017,Hillingdon,2003,All recorded offences,118.3,29349
+E09000018,Hounslow,2003,All recorded offences,140.5,30416
+E09000019,Islington,2003,All recorded offences,225.6,40816
+E09000020,Kensington and Chelsea,2003,All recorded offences,180.8,29873
+E09000021,Kingston upon Thames,2003,All recorded offences,109,16309
+E09000022,Lambeth,2003,All recorded offences,183.5,49937
+E09000023,Lewisham,2003,All recorded offences,125.3,31577
+E09000024,Merton,2003,All recorded offences,99,18738
+E09000025,Newham,2003,All recorded offences,158.5,40615
+E09000026,Redbridge,2003,All recorded offences,114.9,28438
+E09000027,Richmond upon Thames,2003,All recorded offences,87.2,15446
+E09000028,Southwark,2003,All recorded offences,181.3,46276
+E09000029,Sutton,2003,All recorded offences,89.1,16154
+E09000030,Tower Hamlets,2003,All recorded offences,187.8,39188
+E09000031,Waltham Forest,2003,All recorded offences,137.9,30912
+E09000032,Wandsworth,2003,All recorded offences,121.3,33567
+E09000033,Westminster,2003,All recorded offences,375.8,79296
+E09000002,Barking and Dagenham,2004,All recorded offences,129.5,21442
+E09000003,Barnet,2004,All recorded offences,117,37887
+E09000004,Bexley,2004,All recorded offences,85.4,18859
+E09000005,Brent,2004,All recorded offences,132.6,35582
+E09000006,Bromley,2004,All recorded offences,103.5,30761
+E09000007,Camden,2004,All recorded offences,219.1,45432
+E09000008,Croydon,2004,All recorded offences,103.8,35004
+E09000009,Ealing,2004,All recorded offences,117.4,36418
+E09000010,Enfield,2004,All recorded offences,99.7,28131
+E09000011,Greenwich,2004,All recorded offences,137.3,31186
+E09000012,Hackney,2004,All recorded offences,170.9,36492
+E09000013,Hammersmith and Fulham,2004,All recorded offences,157.7,27139
+E09000014,Haringey,2004,All recorded offences,157,35553
+E09000015,Harrow,2004,All recorded offences,83.7,18107
+E09000016,Havering,2004,All recorded offences,94.9,21431
+E09000017,Hillingdon,2004,All recorded offences,111.8,27800
+E09000018,Hounslow,2004,All recorded offences,127.2,27908
+E09000019,Islington,2004,All recorded offences,209.9,37956
+E09000020,Kensington and Chelsea,2004,All recorded offences,161.8,26812
+E09000021,Kingston upon Thames,2004,All recorded offences,103.9,15690
+E09000022,Lambeth,2004,All recorded offences,166.9,45784
+E09000023,Lewisham,2004,All recorded offences,138,34833
+E09000024,Merton,2004,All recorded offences,91.5,17281
+E09000025,Newham,2004,All recorded offences,143.3,36460
+E09000026,Redbridge,2004,All recorded offences,105.2,26173
+E09000027,Richmond upon Thames,2004,All recorded offences,85.4,15320
+E09000028,Southwark,2004,All recorded offences,170.1,43771
+E09000029,Sutton,2004,All recorded offences,93.6,16942
+E09000030,Tower Hamlets,2004,All recorded offences,172,36329
+E09000031,Waltham Forest,2004,All recorded offences,131.1,29491
+E09000032,Wandsworth,2004,All recorded offences,113.6,31641
+E09000033,Westminster,2004,All recorded offences,369.8,79338
+E09000002,Barking and Dagenham,2005,All recorded offences,132.7,22062
+E09000003,Barnet,2005,All recorded offences,106.5,34871
+E09000004,Bexley,2005,All recorded offences,90,20011
+E09000005,Brent,2005,All recorded offences,129.7,35140
+E09000006,Bromley,2005,All recorded offences,102.8,30793
+E09000007,Camden,2005,All recorded offences,200.1,42236
+E09000008,Croydon,2005,All recorded offences,102.8,34859
+E09000009,Ealing,2005,All recorded offences,119.2,37295
+E09000010,Enfield,2005,All recorded offences,96.5,27473
+E09000011,Greenwich,2005,All recorded offences,136,31354
+E09000012,Hackney,2005,All recorded offences,159.9,34630
+E09000013,Hammersmith and Fulham,2005,All recorded offences,149.2,25861
+E09000014,Haringey,2005,All recorded offences,154.3,35367
+E09000015,Harrow,2005,All recorded offences,79.1,17481
+E09000016,Havering,2005,All recorded offences,95.9,21772
+E09000017,Hillingdon,2005,All recorded offences,112.9,28377
+E09000018,Hounslow,2005,All recorded offences,121.7,27233
+E09000019,Islington,2005,All recorded offences,201.9,37050
+E09000020,Kensington and Chelsea,2005,All recorded offences,146.9,24731
+E09000021,Kingston upon Thames,2005,All recorded offences,99.3,15141
+E09000022,Lambeth,2005,All recorded offences,151.2,41968
+E09000023,Lewisham,2005,All recorded offences,131,33387
+E09000024,Merton,2005,All recorded offences,90.8,17299
+E09000025,Newham,2005,All recorded offences,153.7,39020
+E09000026,Redbridge,2005,All recorded offences,98.1,24679
+E09000027,Richmond upon Thames,2005,All recorded offences,82,14891
+E09000028,Southwark,2005,All recorded offences,158.3,41432
+E09000029,Sutton,2005,All recorded offences,88.3,16077
+E09000030,Tower Hamlets,2005,All recorded offences,158.2,33756
+E09000031,Waltham Forest,2005,All recorded offences,132.9,30143
+E09000032,Wandsworth,2005,All recorded offences,106.4,30130
+E09000033,Westminster,2005,All recorded offences,320.8,71582
+E09000002,Barking and Dagenham,2006,All recorded offences,127.9,21384
+E09000003,Barnet,2006,All recorded offences,90.4,29920
+E09000004,Bexley,2006,All recorded offences,76.1,16997
+E09000005,Brent,2006,All recorded offences,110.2,30474
+E09000006,Bromley,2006,All recorded offences,94.4,28424
+E09000007,Camden,2006,All recorded offences,201.1,42435
+E09000008,Croydon,2006,All recorded offences,92.6,31510
+E09000009,Ealing,2006,All recorded offences,116.5,36734
+E09000010,Enfield,2006,All recorded offences,94.1,27058
+E09000011,Greenwich,2006,All recorded offences,127.5,29829
+E09000012,Hackney,2006,All recorded offences,141.5,31160
+E09000013,Hammersmith and Fulham,2006,All recorded offences,145,25334
+E09000014,Haringey,2006,All recorded offences,131.2,30595
+E09000015,Harrow,2006,All recorded offences,70.8,15837
+E09000016,Havering,2006,All recorded offences,87.6,19997
+E09000017,Hillingdon,2006,All recorded offences,110.6,28144
+E09000018,Hounslow,2006,All recorded offences,107.3,24485
+E09000019,Islington,2006,All recorded offences,190.2,35248
+E09000020,Kensington and Chelsea,2006,All recorded offences,147.2,24328
+E09000021,Kingston upon Thames,2006,All recorded offences,85.3,13105
+E09000022,Lambeth,2006,All recorded offences,138.6,38868
+E09000023,Lewisham,2006,All recorded offences,124.6,32150
+E09000024,Merton,2006,All recorded offences,83.5,16078
+E09000025,Newham,2006,All recorded offences,138,35597
+E09000026,Redbridge,2006,All recorded offences,96.4,24646
+E09000027,Richmond upon Thames,2006,All recorded offences,73.5,13408
+E09000028,Southwark,2006,All recorded offences,148.4,39713
+E09000029,Sutton,2006,All recorded offences,84.3,15408
+E09000030,Tower Hamlets,2006,All recorded offences,149.4,32627
+E09000031,Waltham Forest,2006,All recorded offences,125.4,28927
+E09000032,Wandsworth,2006,All recorded offences,104.5,30039
+E09000033,Westminster,2006,All recorded offences,297.4,66267
+E09000002,Barking and Dagenham,2007,All recorded offences,115.6,19536
+E09000003,Barnet,2007,All recorded offences,79.6,26645
+E09000004,Bexley,2007,All recorded offences,74.8,16811
+E09000005,Brent,2007,All recorded offences,99.3,28126
+E09000006,Bromley,2007,All recorded offences,83.3,25195
+E09000007,Camden,2007,All recorded offences,167.4,35398
+E09000008,Croydon,2007,All recorded offences,88.9,30587
+E09000009,Ealing,2007,All recorded offences,106.6,33963
+E09000010,Enfield,2007,All recorded offences,86.7,25275
+E09000011,Greenwich,2007,All recorded offences,129.4,30617
+E09000012,Hackney,2007,All recorded offences,143.6,32241
+E09000013,Hammersmith and Fulham,2007,All recorded offences,131.6,23219
+E09000014,Haringey,2007,All recorded offences,124.5,29487
+E09000015,Harrow,2007,All recorded offences,62.2,14074
+E09000016,Havering,2007,All recorded offences,74.9,17200
+E09000017,Hillingdon,2007,All recorded offences,102.7,26399
+E09000018,Hounslow,2007,All recorded offences,101.2,23623
+E09000019,Islington,2007,All recorded offences,160.2,30228
+E09000020,Kensington and Chelsea,2007,All recorded offences,144.2,23485
+E09000021,Kingston upon Thames,2007,All recorded offences,79.5,12276
+E09000022,Lambeth,2007,All recorded offences,125.8,35855
+E09000023,Lewisham,2007,All recorded offences,118.9,31055
+E09000024,Merton,2007,All recorded offences,77.3,15025
+E09000025,Newham,2007,All recorded offences,133.1,35448
+E09000026,Redbridge,2007,All recorded offences,86.7,22544
+E09000027,Richmond upon Thames,2007,All recorded offences,66.2,12073
+E09000028,Southwark,2007,All recorded offences,146.8,40029
+E09000029,Sutton,2007,All recorded offences,72.4,13340
+E09000030,Tower Hamlets,2007,All recorded offences,137.1,30892
+E09000031,Waltham Forest,2007,All recorded offences,109.3,25751
+E09000032,Wandsworth,2007,All recorded offences,93.7,27299
+E09000033,Westminster,2007,All recorded offences,289.8,63934
+E09000002,Barking and Dagenham,2008,All recorded offences,115.9,19987
+E09000003,Barnet,2008,All recorded offences,77.8,26374
+E09000004,Bexley,2008,All recorded offences,71.3,16171
+E09000005,Brent,2008,All recorded offences,93.5,27213
+E09000006,Bromley,2008,All recorded offences,86.4,26350
+E09000007,Camden,2008,All recorded offences,162.5,34175
+E09000008,Croydon,2008,All recorded offences,93.9,32789
+E09000009,Ealing,2008,All recorded offences,101.1,32747
+E09000010,Enfield,2008,All recorded offences,82.5,24533
+E09000011,Greenwich,2008,All recorded offences,119.6,28677
+E09000012,Hackney,2008,All recorded offences,128.6,29713
+E09000013,Hammersmith and Fulham,2008,All recorded offences,129.5,22928
+E09000014,Haringey,2008,All recorded offences,112,27379
+E09000015,Harrow,2008,All recorded offences,65.5,15047
+E09000016,Havering,2008,All recorded offences,77.7,18020
+E09000017,Hillingdon,2008,All recorded offences,97.4,25420
+E09000018,Hounslow,2008,All recorded offences,99.8,23748
+E09000019,Islington,2008,All recorded offences,153,29383
+E09000020,Kensington and Chelsea,2008,All recorded offences,135.2,21979
+E09000021,Kingston upon Thames,2008,All recorded offences,72.4,11296
+E09000022,Lambeth,2008,All recorded offences,121.7,35186
+E09000023,Lewisham,2008,All recorded offences,118.4,31553
+E09000024,Merton,2008,All recorded offences,77.3,15146
+E09000025,Newham,2008,All recorded offences,121.2,33519
+E09000026,Redbridge,2008,All recorded offences,92,24410
+E09000027,Richmond upon Thames,2008,All recorded offences,65,11885
+E09000028,Southwark,2008,All recorded offences,141.8,39266
+E09000029,Sutton,2008,All recorded offences,74.4,13831
+E09000030,Tower Hamlets,2008,All recorded offences,119.5,27710
+E09000031,Waltham Forest,2008,All recorded offences,108.4,26240
+E09000032,Wandsworth,2008,All recorded offences,85.2,25088
+E09000033,Westminster,2008,All recorded offences,289.6,63331
+E09000002,Barking and Dagenham,2009,All recorded offences,111.7,19843
+E09000003,Barnet,2009,All recorded offences,76,26273
+E09000004,Bexley,2009,All recorded offences,67.7,15451
+E09000005,Brent,2009,All recorded offences,97.4,29046
+E09000006,Bromley,2009,All recorded offences,77.5,23781
+E09000007,Camden,2009,All recorded offences,158.6,33773
+E09000008,Croydon,2009,All recorded offences,94.1,33210
+E09000009,Ealing,2009,All recorded offences,102,33654
+E09000010,Enfield,2009,All recorded offences,81,24459
+E09000011,Greenwich,2009,All recorded offences,105.1,25622
+E09000012,Hackney,2009,All recorded offences,121.4,28721
+E09000013,Hammersmith and Fulham,2009,All recorded offences,127,22867
+E09000014,Haringey,2009,All recorded offences,103.1,25743
+E09000015,Harrow,2009,All recorded offences,65.9,15392
+E09000016,Havering,2009,All recorded offences,73.3,17153
+E09000017,Hillingdon,2009,All recorded offences,91,24165
+E09000018,Hounslow,2009,All recorded offences,95.1,23142
+E09000019,Islington,2009,All recorded offences,144.5,28432
+E09000020,Kensington and Chelsea,2009,All recorded offences,129,20883
+E09000021,Kingston upon Thames,2009,All recorded offences,70,11012
+E09000022,Lambeth,2009,All recorded offences,120.6,35458
+E09000023,Lewisham,2009,All recorded offences,109.3,29553
+E09000024,Merton,2009,All recorded offences,74.9,14840
+E09000025,Newham,2009,All recorded offences,119.6,34259
+E09000026,Redbridge,2009,All recorded offences,88.9,24034
+E09000027,Richmond upon Thames,2009,All recorded offences,62.5,11529
+E09000028,Southwark,2009,All recorded offences,131.8,37048
+E09000029,Sutton,2009,All recorded offences,69.3,13033
+E09000030,Tower Hamlets,2009,All recorded offences,112.2,26990
+E09000031,Waltham Forest,2009,All recorded offences,109.9,27266
+E09000032,Wandsworth,2009,All recorded offences,85.1,25469
+E09000033,Westminster,2009,All recorded offences,295.1,64022
+E09000002,Barking and Dagenham,2010,All recorded offences,104.9,19177
+E09000003,Barnet,2010,All recorded offences,73.1,25701
+E09000004,Bexley,2010,All recorded offences,59.6,13739
+E09000005,Brent,2010,All recorded offences,96.8,29492
+E09000006,Bromley,2010,All recorded offences,71.4,22031
+E09000007,Camden,2010,All recorded offences,159.3,34205
+E09000008,Croydon,2010,All recorded offences,90.2,32292
+E09000009,Ealing,2010,All recorded offences,104.9,35030
+E09000010,Enfield,2010,All recorded offences,76.9,23657
+E09000011,Greenwich,2010,All recorded offences,96.8,24130
+E09000012,Hackney,2010,All recorded offences,115.9,28016
+E09000013,Hammersmith and Fulham,2010,All recorded offences,133.5,24151
+E09000014,Haringey,2010,All recorded offences,97.3,24588
+E09000015,Harrow,2010,All recorded offences,63.1,14973
+E09000016,Havering,2010,All recorded offences,74.4,17581
+E09000017,Hillingdon,2010,All recorded offences,87.3,23535
+E09000018,Hounslow,2010,All recorded offences,95.7,23855
+E09000019,Islington,2010,All recorded offences,140.3,28076
+E09000020,Kensington and Chelsea,2010,All recorded offences,132,21181
+E09000021,Kingston upon Thames,2010,All recorded offences,70.3,11150
+E09000022,Lambeth,2010,All recorded offences,119.8,35672
+E09000023,Lewisham,2010,All recorded offences,105.9,28874
+E09000024,Merton,2010,All recorded offences,73.9,14721
+E09000025,Newham,2010,All recorded offences,114.9,34361
+E09000026,Redbridge,2010,All recorded offences,89.1,24519
+E09000027,Richmond upon Thames,2010,All recorded offences,63,11734
+E09000028,Southwark,2010,All recorded offences,127.7,36252
+E09000029,Sutton,2010,All recorded offences,65.5,12408
+E09000030,Tower Hamlets,2010,All recorded offences,115.3,28652
+E09000031,Waltham Forest,2010,All recorded offences,108.4,27539
+E09000032,Wandsworth,2010,All recorded offences,81.7,24723
+E09000033,Westminster,2010,All recorded offences,294.7,63996
+E09000002,Barking and Dagenham,2011,All recorded offences,100.7,18825
+E09000003,Barnet,2011,All recorded offences,73.5,26281
+E09000004,Bexley,2011,All recorded offences,52.3,12168
+E09000005,Brent,2011,All recorded offences,101.2,31592
+E09000006,Bromley,2011,All recorded offences,70.5,21903
+E09000007,Camden,2011,All recorded offences,162.7,35799
+E09000008,Croydon,2011,All recorded offences,89.8,32775
+E09000009,Ealing,2011,All recorded offences,96,32575
+E09000010,Enfield,2011,All recorded offences,73,22928
+E09000011,Greenwich,2011,All recorded offences,87.7,22415
+E09000012,Hackney,2011,All recorded offences,112.9,27902
+E09000013,Hammersmith and Fulham,2011,All recorded offences,128.4,23426
+E09000014,Haringey,2011,All recorded offences,101.4,25911
+E09000015,Harrow,2011,All recorded offences,58.9,14169
+E09000016,Havering,2011,All recorded offences,72.7,17302
+E09000017,Hillingdon,2011,All recorded offences,86.9,23937
+E09000018,Hounslow,2011,All recorded offences,97.2,24768
+E09000019,Islington,2011,All recorded offences,131,27025
+E09000020,Kensington and Chelsea,2011,All recorded offences,131.2,20766
+E09000021,Kingston upon Thames,2011,All recorded offences,70,11232
+E09000022,Lambeth,2011,All recorded offences,121.5,36993
+E09000023,Lewisham,2011,All recorded offences,98.1,27172
+E09000024,Merton,2011,All recorded offences,70.6,14157
+E09000025,Newham,2011,All recorded offences,103.1,32011
+E09000026,Redbridge,2011,All recorded offences,86.2,24257
+E09000027,Richmond upon Thames,2011,All recorded offences,64.1,12012
+E09000028,Southwark,2011,All recorded offences,119.4,34475
+E09000029,Sutton,2011,All recorded offences,61.4,11736
+E09000030,Tower Hamlets,2011,All recorded offences,115,29452
+E09000031,Waltham Forest,2011,All recorded offences,95.8,24876
+E09000032,Wandsworth,2011,All recorded offences,79.3,24392
+E09000033,Westminster,2011,All recorded offences,302,66315
+E09000002,Barking and Dagenham,2012,All recorded offences,90.5,17240
+E09000003,Barnet,2012,All recorded offences,69.7,25364
+E09000004,Bexley,2012,All recorded offences,52.7,12335
+E09000005,Brent,2012,All recorded offences,86.6,27260
+E09000006,Bromley,2012,All recorded offences,64.5,20248
+E09000007,Camden,2012,All recorded offences,146,32840
+E09000008,Croydon,2012,All recorded offences,84.3,31109
+E09000009,Ealing,2012,All recorded offences,88.1,30003
+E09000010,Enfield,2012,All recorded offences,71,22521
+E09000011,Greenwich,2012,All recorded offences,81.2,21110
+E09000012,Hackney,2012,All recorded offences,110.3,27804
+E09000013,Hammersmith and Fulham,2012,All recorded offences,121.1,21782
+E09000014,Haringey,2012,All recorded offences,90.3,23377
+E09000015,Harrow,2012,All recorded offences,55.5,13463
+E09000016,Havering,2012,All recorded offences,68.7,16458
+E09000017,Hillingdon,2012,All recorded offences,73.2,20636
+E09000018,Hounslow,2012,All recorded offences,86.9,22509
+E09000019,Islington,2012,All recorded offences,132,27865
+E09000020,Kensington and Chelsea,2012,All recorded offences,133.6,20839
+E09000021,Kingston upon Thames,2012,All recorded offences,62.2,10198
+E09000022,Lambeth,2012,All recorded offences,112.5,34912
+E09000023,Lewisham,2012,All recorded offences,87.8,24727
+E09000024,Merton,2012,All recorded offences,66.1,13376
+E09000025,Newham,2012,All recorded offences,101,31716
+E09000026,Redbridge,2012,All recorded offences,78.8,22419
+E09000027,Richmond upon Thames,2012,All recorded offences,62.4,11803
+E09000028,Southwark,2012,All recorded offences,111.6,32747
+E09000029,Sutton,2012,All recorded offences,57.8,11188
+E09000030,Tower Hamlets,2012,All recorded offences,110.6,29082
+E09000031,Waltham Forest,2012,All recorded offences,93.2,24478
+E09000032,Wandsworth,2012,All recorded offences,82.5,25445
+E09000033,Westminster,2012,All recorded offences,277,62014
+E09000002,Barking and Dagenham,2013,All recorded offences,82.9,16104
+E09000003,Barnet,2013,All recorded offences,61.6,22724
+E09000004,Bexley,2013,All recorded offences,50,11837
+E09000005,Brent,2013,All recorded offences,77.1,24476
+E09000006,Bromley,2013,All recorded offences,61.2,19445
+E09000007,Camden,2013,All recorded offences,124.7,28646
+E09000008,Croydon,2013,All recorded offences,75.7,28202
+E09000009,Ealing,2013,All recorded offences,75.6,25886
+E09000010,Enfield,2013,All recorded offences,70.6,22631
+E09000011,Greenwich,2013,All recorded offences,74.4,19630
+E09000012,Hackney,2013,All recorded offences,101.1,26031
+E09000013,Hammersmith and Fulham,2013,All recorded offences,106.2,18985
+E09000014,Haringey,2013,All recorded offences,83.8,22074
+E09000015,Harrow,2013,All recorded offences,50.3,12236
+E09000016,Havering,2013,All recorded offences,62.5,15127
+E09000017,Hillingdon,2013,All recorded offences,67.2,19268
+E09000018,Hounslow,2013,All recorded offences,75,19668
+E09000019,Islington,2013,All recorded offences,114.1,24603
+E09000020,Kensington and Chelsea,2013,All recorded offences,115.5,17975
+E09000021,Kingston upon Thames,2013,All recorded offences,55.7,9288
+E09000022,Lambeth,2013,All recorded offences,104.8,32923
+E09000023,Lewisham,2013,All recorded offences,78,22327
+E09000024,Merton,2013,All recorded offences,57.1,11596
+E09000025,Newham,2013,All recorded offences,91,28950
+E09000026,Redbridge,2013,All recorded offences,69.5,20044
+E09000027,Richmond upon Thames,2013,All recorded offences,55,10518
+E09000028,Southwark,2013,All recorded offences,104.5,31195
+E09000029,Sutton,2013,All recorded offences,53.1,10401
+E09000030,Tower Hamlets,2013,All recorded offences,99.5,27139
+E09000031,Waltham Forest,2013,All recorded offences,83.1,22097
+E09000032,Wandsworth,2013,All recorded offences,71.6,22241
+E09000033,Westminster,2013,All recorded offences,238.3,54054
+E09000002,Barking and Dagenham,2014,All recorded offences,81.9,16235
+E09000003,Barnet,2014,All recorded offences,61.9,23192
+E09000004,Bexley,2014,All recorded offences,51.2,12280
+E09000005,Brent,2014,All recorded offences,78.3,25101
+E09000006,Bromley,2014,All recorded offences,63.6,20434
+E09000007,Camden,2014,All recorded offences,121,28428
+E09000008,Croydon,2014,All recorded offences,76.6,28804
+E09000009,Ealing,2014,All recorded offences,75.8,25941
+E09000010,Enfield,2014,All recorded offences,68.7,22308
+E09000011,Greenwich,2014,All recorded offences,78.2,21023
+E09000012,Hackney,2014,All recorded offences,97.7,25706
+E09000013,Hammersmith and Fulham,2014,All recorded offences,113.6,20259
+E09000014,Haringey,2014,All recorded offences,89,23824
+E09000015,Harrow,2014,All recorded offences,50.1,12316
+E09000016,Havering,2014,All recorded offences,62.4,15358
+E09000017,Hillingdon,2014,All recorded offences,75.2,22019
+E09000018,Hounslow,2014,All recorded offences,78.4,20825
+E09000019,Islington,2014,All recorded offences,118.6,26222
+E09000020,Kensington and Chelsea,2014,All recorded offences,120.6,18836
+E09000021,Kingston upon Thames,2014,All recorded offences,57.5,9774
+E09000022,Lambeth,2014,All recorded offences,103.8,33025
+E09000023,Lewisham,2014,All recorded offences,75.7,22109
+E09000024,Merton,2014,All recorded offences,59.8,12164
+E09000025,Newham,2014,All recorded offences,89.4,28986
+E09000026,Redbridge,2014,All recorded offences,68.7,20128
+E09000027,Richmond upon Thames,2014,All recorded offences,55.7,10788
+E09000028,Southwark,2014,All recorded offences,99.6,30130
+E09000029,Sutton,2014,All recorded offences,55.4,10974
+E09000030,Tower Hamlets,2014,All recorded offences,96.3,27348
+E09000031,Waltham Forest,2014,All recorded offences,77.5,20782
+E09000032,Wandsworth,2014,All recorded offences,72.3,22583
+E09000033,Westminster,2014,All recorded offences,206.9,48279
+E09000002,Barking and Dagenham,2015,All recorded offences,86.5,17477
+E09000003,Barnet,2015,All recorded offences,65.8,24978
+E09000004,Bexley,2015,All recorded offences,52.2,12644
+E09000005,Brent,2015,All recorded offences,80.6,26128
+E09000006,Bromley,2015,All recorded offences,65.1,21137
+E09000007,Camden,2015,All recorded offences,125.2,30185
+E09000008,Croydon,2015,All recorded offences,76.4,28951
+E09000009,Ealing,2015,All recorded offences,78.8,27032
+E09000010,Enfield,2015,All recorded offences,69.9,22942
+E09000011,Greenwich,2015,All recorded offences,79.9,21950
+E09000012,Hackney,2015,All recorded offences,101.1,27209
+E09000013,Hammersmith and Fulham,2015,All recorded offences,114.3,20514
+E09000014,Haringey,2015,All recorded offences,95.4,26024
+E09000015,Harrow,2015,All recorded offences,53.3,13174
+E09000016,Havering,2015,All recorded offences,67.7,16851
+E09000017,Hillingdon,2015,All recorded offences,73.8,21972
+E09000018,Hounslow,2015,All recorded offences,81.6,21926
+E09000019,Islington,2015,All recorded offences,123.6,28144
+E09000020,Kensington and Chelsea,2015,All recorded offences,124.7,19663
+E09000021,Kingston upon Thames,2015,All recorded offences,58.5,10155
+E09000022,Lambeth,2015,All recorded offences,107.9,34998
+E09000023,Lewisham,2015,All recorded offences,83.1,24712
+E09000024,Merton,2015,All recorded offences,63.2,12933
+E09000025,Newham,2015,All recorded offences,90.4,30084
+E09000026,Redbridge,2015,All recorded offences,66.2,19637
+E09000027,Richmond upon Thames,2015,All recorded offences,55.1,10729
+E09000028,Southwark,2015,All recorded offences,101.7,31422
+E09000029,Sutton,2015,All recorded offences,54.7,10949
+E09000030,Tower Hamlets,2015,All recorded offences,97.4,28752
+E09000031,Waltham Forest,2015,All recorded offences,80.4,21799
+E09000032,Wandsworth,2015,All recorded offences,74.1,23292
+E09000033,Westminster,2015,All recorded offences,203.1,49204
+E09000002,Barking and Dagenham,2016,All recorded offences,70.9,14638
+E09000003,Barnet,2016,All recorded offences,55.8,21549
+E09000004,Bexley,2016,All recorded offences,45.6,11163
+E09000005,Brent,2016,All recorded offences,70.8,23237
+E09000006,Bromley,2016,All recorded offences,52.7,17243
+E09000007,Camden,2016,All recorded offences,103.1,25390
+E09000008,Croydon,2016,All recorded offences,67.4,25777
+E09000009,Ealing,2016,All recorded offences,69,23684
+E09000010,Enfield,2016,All recorded offences,58.5,19401
+E09000011,Greenwich,2016,All recorded offences,71.6,20023
+E09000012,Hackney,2016,All recorded offences,91.2,24933
+E09000013,Hammersmith and Fulham,2016,All recorded offences,98.1,17629
+E09000014,Haringey,2016,All recorded offences,85.8,23894
+E09000015,Harrow,2016,All recorded offences,45.5,11309
+E09000016,Havering,2016,All recorded offences,58.1,14680
+E09000017,Hillingdon,2016,All recorded offences,63.5,19195
+E09000018,Hounslow,2016,All recorded offences,71.3,19339
+E09000019,Islington,2016,All recorded offences,99.9,23254
+E09000020,Kensington and Chelsea,2016,All recorded offences,109.8,17206
+E09000021,Kingston upon Thames,2016,All recorded offences,49.6,8739
+E09000022,Lambeth,2016,All recorded offences,90.8,29787
+E09000023,Lewisham,2016,All recorded offences,68.4,20654
+E09000024,Merton,2016,All recorded offences,53.5,10973
+E09000025,Newham,2016,All recorded offences,77.1,26306
+E09000026,Redbridge,2016,All recorded offences,56.7,16963
+E09000027,Richmond upon Thames,2016,All recorded offences,49.9,9780
+E09000028,Southwark,2016,All recorded offences,87.9,27529
+E09000029,Sutton,2016,All recorded offences,45,9102
+E09000030,Tower Hamlets,2016,All recorded offences,85.3,26005
+E09000031,Waltham Forest,2016,All recorded offences,64.9,17899
+E09000032,Wandsworth,2016,All recorded offences,65.8,20809
+E09000033,Westminster,2016,All recorded offences,171.3,42414
